@@ -231,7 +231,7 @@
     <!-- Home Section -->
     <div id="home" class="section active">
         <div class="home-logo">
-             <img.src="https://1drv.ms/i/c/2d8571513ddf9d62/IQDaMlchKEgoR4kvi9tQBmShAYRZ_cRzWzodbquM-5xjkOc"alt="LaunchPoint Logo" class="home-logo">
+             <img src="logo.png" alt="LaunchPoint Logo" class="logo">
 
 
             <h1>Launch<span class="highlight">Point</span></h1>
