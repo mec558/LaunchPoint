@@ -268,7 +268,7 @@
     </Ul>
 
     
-        <button onclick="window.open('https://instagram.com/_ramosir?message=Hey LaunchPoint, can I get a flier for...')">Let's Get That Flyer</button>
+        <button onclick="window.open('https://instagram.com/_ramosir?igsh=NTc4MTIwNjQ2YQ==message=Hey LaunchPoint, can I get a flier for...')">Let's Get That Flyer</button>
     </div>
 
     <!-- Get Social Account -->
