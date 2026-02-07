@@ -79,11 +79,11 @@
             margin-bottom: 30px;
         }
 
-        .home-logo img {
-            width:1200 px;
-            height: 300px;
-            margin-bottom: 10px;
-        }
+        
+
+
+        
+        
 
         .home-logo h1 {
             font-size: 48px;
@@ -229,9 +229,7 @@
     </div>
 
     <!-- Home Section -->
-    <div id="home" class="section active">
-        <div class="home-logo">
-             <img src="logo.png" alt="LaunchPoint Logo" class="logo">
+
 
 
             <h1>Launch<span class="highlight">Point</span></h1>
