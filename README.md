@@ -229,7 +229,7 @@
     <!-- Home Section -->
     <div id="home" class="section active">
         <div class="home-logo">
-            <img src="c:\Users\Peter     Kojwang\Downloads\ChatGPT Image Feb 6, 2026, 05_47_50 PM.png" alt="LaunchPoint Logo">
+            
             <h1>Launch<span class="highlight">Point</span></h1>
             <h2 style="align-self:flex-start; margin-top:10px;">What LaunchPoint Offers</h2>
         </div>
