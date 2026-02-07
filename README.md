@@ -266,9 +266,15 @@
         <li>Preferred colors</li>
         <li>Anything else you want on the flyer?</li>
     </Ul>
-
+<button onclick="openIG()">Message on Instagram</button>
+<script> 
+    function OpenIG() { 
+    navigator.clipboard.wtiteText("Hi LaunchPoint, Can I Get A flier With...(how do you want the flier)";
+     window.open("htttps:www.instagram.com/_ramosir" , "_blank");
+        {
+            </script>
     
-        <button onclick="window.open('https://instagram.com/_ramosir?igsh=NTc4MTIwNjQ2YQ==message=Hey LaunchPoint, can I get a flier for...')">Let's Get That Flyer</button>
+        
     </div>
 
     <!-- Get Social Account -->
