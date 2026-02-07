@@ -170,7 +170,7 @@
 
         /* Get Social */
         .get-social {
-            background-color: #210030;
+            background-color: ##062437;
             color: #fff;
         }
 
