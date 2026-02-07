@@ -118,7 +118,7 @@
         }
 
         .get-website h2 {
-            color: #1d00fcde;
+            color:  #0188f6;
             margin-bottom: 15px;
         }
 
@@ -144,7 +144,7 @@
         }
 
         .get-flyers h2 {
-            color: #1201fa;
+            color:  #0188f6;
             margin-bottom: 15px;
         }
 
@@ -175,7 +175,7 @@
         }
 
         .get-social h2 {
-            color: #0188f6;
+            color:  #0188f6;
             margin-bottom: 15px;
         }
 
