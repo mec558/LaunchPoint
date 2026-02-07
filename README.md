@@ -266,13 +266,8 @@
         <li>Preferred colors</li>
         <li>Anything else you want on the flyer?</li>
     </Ul>
-<button onclick="openIG()">Let's Get the Flier</button>
-<script> 
-    function OpenIG() { 
-    navigator.clipboard.wtiteText("Hi LaunchPoint, Can I Get A flier With...(how do you want the flier)";
-     window.open("htttps//:www.instagram.com/__ramosir?igsh=NTc4MTIwNjQ2YQ==" , "_blank");
-        {
-            </script>
+<button onclick="window.location.href='https://www.instagram.com/__ramosir/'">Let's Get the Flier</button>
+
     
         
     </div>
