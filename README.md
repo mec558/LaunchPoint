@@ -2,10 +2,11 @@
 
 <html lang="en">
 <head> 
-    <meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LaunchPoint</title>
+    <meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
     <style>
         /* General Reset */
         * {
@@ -211,7 +212,7 @@
         }
 
     </style>
-    <meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
+    
 </head>
 <body>
 
