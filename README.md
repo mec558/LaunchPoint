@@ -106,7 +106,7 @@
             width : 100%;
             padding: 20px;
             border-radius: 8px;
-            border: 2px solid #a11f1f;
+            border: 2px solid #bc10af;
             background-color: #651212;
             max-width: 700px;
             margin: auto;
@@ -138,9 +138,9 @@
 
         /* Get Flyers */
         .get-flyers {
-            background-color: #1a1a1a;
+            background-color: #062437;
             color: #fff;
-            border: 2px dashed #e53935;
+            border: 2px solid #bc10af;
         }
 
         .get-flyers h2 {
@@ -183,9 +183,9 @@
             width: 100%;
             padding: 10px;
             margin-bottom: 12px;
-            border: 1px solid #42a5f5;
+            border: 1px solid #bc10af;
             border-radius: 5px;
-            background-color: #580f0f;
+            background-color: #062437;
             color: #fff;
         }
 
