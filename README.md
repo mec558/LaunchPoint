@@ -231,9 +231,9 @@
     <!-- Home Section -->
     <div id="home" class="section active">
         <div class="home-logo">
-             <img src="<img width="1536" height="1024" alt="ChatGPT Image Feb 6, 2026, 05_47_50 PM" src="https://github.com/user-attachments/assets/2b16444a-7304-4917-ba12-392e10641dfb" />
-" alt="LaunchPoint Logo" class="logo">
-" alt="LaunchPoint Logo">
+             <img.src="https://1drv.ms/i/c/2d8571513ddf9d62/IQDaMlchKEgoR4kvi9tQBmShAYRZ_cRzWzodbquM-5xjkOc"alt="LaunchPoint Logo" class="home-logo">
+
+
             <h1>Launch<span class="highlight">Point</span></h1>
             <h2 style="align-self:flex-start; margin-top:10px;">What LaunchPoint Offers</h2>
         </div>
