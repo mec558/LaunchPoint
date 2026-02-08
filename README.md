@@ -1,12 +1,8 @@
-
-
 <html lang="en">
-<head> 
-    
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LaunchPoint</title>
-    <meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
     <style>
         /* General Reset */
         * {
@@ -47,20 +43,7 @@
             color: #e53935;
         }
 
-        /* Help Menu */
-        .help-menu {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background-color: #111;
-            border: 1px solid #e53935;
-            padding: 10px;
-            cursor: pointer;
-        }
-
-        .help-menu:hover {
-            background-color: #222;
-        }
+        
 
         /* Sections */
         .section {
@@ -106,21 +89,26 @@
         /* Get Website */
         .get-website, .get-flyers, .get-social {
             width : 100%;
-            padding: 20px;
+            background-color: #1a1a1a;
             border-radius: 8px;
-            border: 2px solid #b93906;
-            background-color: #651212;
+            border: 2px solid #a11f1f;
+            
+            border-color: #b93906;
             max-width: 700px;
             margin: auto;
         }
-
-        .get-website {
-            background-color: #062437;
-            color: #fcfcfc;
+.get-website {
+            background-color: #1a1a1a;
+            color: #fff;
+            border: 2px solid #b93906;
         }
+        .get-website {
+            background-color: #005bf900;
+            color: #fcfcfc;
+        }   
 
         .get-website h2 {
-            color:  #0188f6;
+            color: #0188f6;
             margin-bottom: 15px;
         }
 
@@ -140,13 +128,13 @@
 
         /* Get Flyers */
         .get-flyers {
-            background-color: #062437;
+            background-color:#062437;
             color: #fff;
             border: 2px solid #b93906;
         }
 
         .get-flyers h2 {
-            color:  #0188f6;
+            color: #0188f6;
             margin-bottom: 15px;
         }
 
@@ -154,7 +142,7 @@
             width: 100%;
             padding: 70px;
             margin-bottom: 12px;
-            border: 1px solid #b93906;
+            border: 1px solid #ff5252;
             border-radius: 5px;
             background-color: #111;
             color: #fff;
@@ -172,12 +160,12 @@
 
         /* Get Social */
         .get-social {
-            background-color:  #062437;
+            background-color: #062437;
             color: #fff;
         }
 
         .get-social h2 {
-            color:  #0188f6;
+            color: #0188f6;
             margin-bottom: 15px;
         }
 
@@ -185,9 +173,9 @@
             width: 100%;
             padding: 10px;
             margin-bottom: 12px;
-            border: 1px solid #b93906;
+            border: 1px solid #42a5f5;
             border-radius: 5px;
-            background-color: #062437;
+            background-color: #b93906;
             color: #fff;
         }
 
@@ -212,7 +200,6 @@
         }
 
     </style>
-    
 </head>
 <body>
 
@@ -226,7 +213,7 @@
 
     <!-- Help Menu -->
     <div class="help-menu" onclick="alert('Navigate by clicking the tabs on top. Click highlights on Home to go to services.');">
-        Help / Support
+        
     </div>
 
     <!-- Home Section -->
