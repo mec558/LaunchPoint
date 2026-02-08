@@ -1,8 +1,9 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LaunchPoint</title>
+    <title>Launch<span>Point</span></title>
     <style>
         /* General Reset */
         * {
@@ -68,11 +69,7 @@
         
         
 
-        .home-logo h1 {
-            font-size: 48px;
-            color: #fff9f9;
-            margin-bottom: 10px;
-        }
+        
 
         /* Home Article */
         .home-article {
@@ -220,8 +217,8 @@
     <div id="home" class="section active">
         <div class="home-logo">
             
-            <h1>Launch<span class="highlight">Point</span></h1>
-            <h2 style="align-self:flex-start; margin-top:10px;">What LaunchPoint Offers</h2>
+            
+            <h1 style="align-self:flex-start; margin-top:10px;">What LaunchPoint Offers</h1>
         </div>
         <div class="home-article">
             LaunchPoint is a professional company helping businesses grow digitally and visually. We specialize in <span class="highlight" onclick="openTab('website')">Website Development</span>, <span class="highlight" onclick="openTab('flyers')">Flyer & Visual Design</span>, and <span class="highlight" onclick="openTab('social')">Social Media Account Setup</span>. Each service is handled by a dedicated specialist, ensuring quality, clarity, and efficiency. We give you our best on every aspect we cover, with the cheapest price possible. We are here to help you get your business up and running with a strong online presence and eye-catching visuals. Whether you need a sleek website, attention-grabbing flyers, or a solid social media foundation, LaunchPoint has got you covered. Let's work together to bring your vision to life and make your business stand out in the digital world.
