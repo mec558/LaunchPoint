@@ -26,7 +26,7 @@
         .nav {
             display: flex;
             justify-content: center;
-            background-color: #bc019a;
+            background-color: #b93906;
             padding: 15px 0;
             position: sticky;
             top: 0;
@@ -108,14 +108,14 @@
             width : 100%;
             padding: 20px;
             border-radius: 8px;
-            border: 2px solid #bc10af;
+            border: 2px solid #b93906;
             background-color: #651212;
             max-width: 700px;
             margin: auto;
         }
 
         .get-website {
-            background-color: #005bf900;
+            background-color: #b93906;
             color: #fcfcfc;
         }
 
@@ -154,7 +154,7 @@
             width: 100%;
             padding: 70px;
             margin-bottom: 12px;
-            border: 1px solid #ff5252;
+            border: 1px solid #b93906;
             border-radius: 5px;
             background-color: #111;
             color: #fff;
@@ -185,7 +185,7 @@
             width: 100%;
             padding: 10px;
             margin-bottom: 12px;
-            border: 1px solid #bc10af;
+            border: 1px solid #b93906;
             border-radius: 5px;
             background-color: #062437;
             color: #fff;
