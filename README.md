@@ -142,7 +142,7 @@
         .get-flyers {
             background-color: #062437;
             color: #fff;
-            border: 2px solid #bc10af;
+            border: 2px solid #b93906;
         }
 
         .get-flyers h2 {
