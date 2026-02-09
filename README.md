@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
+<!DOCTYPE htmpl>
 <html lang="en">
 <head>
     <meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
@@ -12,7 +12,7 @@
             box-sizing: border-box;
             font-family: Arial, sans-serif;
         }
-<meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
+
         body {
             background-color: #062437;
             color: #fff;
@@ -197,7 +197,7 @@
         }
 
     </style>
-    <meta name="google-site-verification" content="mq9YO9WqUNw8SoV4eTBNSv8X9hEt4pSGsy3HxOnRcB4" />
+   
 </head>
 <body>
 
